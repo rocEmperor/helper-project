@@ -1,0 +1,25 @@
+.home {
+  .box {
+    .item {
+      float: left;
+      width: calc(50% - 30px);
+      background-color: antiquewhite;
+      margin: 10px;
+      height: 300px;
+    }
+    .item-0 {
+      height: 280px;
+    }
+    .item-1 {
+      float: right;
+      height: 240px;
+    }
+    .item-2 {
+      height: 230px;
+    }
+    .item-3 {
+      float: right;
+      height: 320px;
+    }
+  }
+}
